@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GoogleFacebookLogin</string>
+    <string name="facebook_app_id">265602054866028</string>
+    <string name="fb_login_protocol_scheme">fb265602054866028</string>
+    <string name="enter">Please enter the verification code we sent you, it might take a few minutes to receive your code </string>
+</resources>
